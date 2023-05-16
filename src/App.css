@@ -27,6 +27,7 @@ main{
 .card-content{
     background-color: var(--color-primary-300);
     padding: .25rem 1rem;
+    height: 393px;
 }
 
 .portrait-container{
